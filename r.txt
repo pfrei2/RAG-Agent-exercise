@@ -1,0 +1,11 @@
+python-dotenv
+PyPDF2
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-google-vertexai
+langchain-text-splitters
+pydantic
+dotenv
